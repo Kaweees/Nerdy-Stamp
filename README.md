@@ -7,5 +7,5 @@ Source code for machining of a rubber stamp with the inprint of the VEX/FRC 687 
 ## Supplies Needed
 
 - A Computer Numerical Control (CNC) Machine
-  - For this project, the ___ was used. However, any machine that can hold the stock material is fine.
+  - For this project, the Nomad883 CNC Engraver was used. However, any machine that can hold and cut the stock material is fine.
   - 
